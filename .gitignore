@@ -1,0 +1,77 @@
+## Build results
+bin/
+obj/
+out/
+artifacts/
+
+## Rider / JetBrains
+.idea/
+
+## VS Code
+.vscode/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Dotnet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.log
+
+## ASP.NET
+wwwroot/*.map
+wwwroot/*.bundle.*
+wwwroot/*.min.*
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+*.psmdcp
+*.symbols.nupkg
+
+## Testing
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+
+## Logs
+*.log
+
+## OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+## Others
+*.sdf
+*.dbmdl
+*.sqlite
+*.mdf
+*.ldf
+
+## Local tools
+tools/
+.env
+*.local.json

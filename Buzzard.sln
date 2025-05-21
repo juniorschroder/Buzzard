@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1E962284-9D9D-47AA-A70A-2DDBAF1C6BBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{8D6975C1-9191-455D-8982-9B1182BBCA48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buzzard", "Buzzard\Buzzard.csproj", "{C009CCF9-B676-40F0-9AFF-2F4182B0E12E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{42A66C90-89AB-40E4-B37C-AF36E2217C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buzzard.Tests", "Buzzard.Tests\Buzzard.Tests.csproj", "{441D70F9-6189-4A47-B252-64033D108BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C009CCF9-B676-40F0-9AFF-2F4182B0E12E} = {1E962284-9D9D-47AA-A70A-2DDBAF1C6BBA}
+		{441D70F9-6189-4A47-B252-64033D108BFB} = {8D6975C1-9191-455D-8982-9B1182BBCA48}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C009CCF9-B676-40F0-9AFF-2F4182B0E12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C009CCF9-B676-40F0-9AFF-2F4182B0E12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C009CCF9-B676-40F0-9AFF-2F4182B0E12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C009CCF9-B676-40F0-9AFF-2F4182B0E12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441D70F9-6189-4A47-B252-64033D108BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441D70F9-6189-4A47-B252-64033D108BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441D70F9-6189-4A47-B252-64033D108BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441D70F9-6189-4A47-B252-64033D108BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
