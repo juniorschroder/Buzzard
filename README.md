@@ -1,6 +1,10 @@
 # 🦅 Buzzard
 **Buzzard** is a lightweight, fast, and extensible .NET library that implements the Mediator pattern — similar to [MediatR](https://github.com/jbogard/MediatR) — with full developer control and minimal overhead.
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_Buzzard&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=juniorschroder_Buzzard)
+[![NuGet](https://img.shields.io/nuget/v/Buzzard.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/Buzzard/)
+
+---
 ## ✨ Features
 - Request/Response messaging with `IRequest<TResponse>`
 - Fire-and-forget notifications with `INotification`
