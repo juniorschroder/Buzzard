@@ -1,0 +1,6 @@
+@Buzzard.DemoApi_HostAddress = http://localhost:5086
+
+GET {{Buzzard.DemoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

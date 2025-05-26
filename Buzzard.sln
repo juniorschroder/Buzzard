@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{42A66C90-8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buzzard.Tests", "Buzzard.Tests\Buzzard.Tests.csproj", "{441D70F9-6189-4A47-B252-64033D108BFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buzzard.DemoApi", "Buzzard.DemoApi\Buzzard.DemoApi.csproj", "{916E7DD0-EF8C-482B-8370-3BF022C3BA6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C009CCF9-B676-40F0-9AFF-2F4182B0E12E} = {1E962284-9D9D-47AA-A70A-2DDBAF1C6BBA}
 		{441D70F9-6189-4A47-B252-64033D108BFB} = {8D6975C1-9191-455D-8982-9B1182BBCA48}
+		{916E7DD0-EF8C-482B-8370-3BF022C3BA6A} = {42A66C90-89AB-40E4-B37C-AF36E2217C84}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C009CCF9-B676-40F0-9AFF-2F4182B0E12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -28,5 +31,9 @@ Global
 		{441D70F9-6189-4A47-B252-64033D108BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{441D70F9-6189-4A47-B252-64033D108BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{441D70F9-6189-4A47-B252-64033D108BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916E7DD0-EF8C-482B-8370-3BF022C3BA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916E7DD0-EF8C-482B-8370-3BF022C3BA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916E7DD0-EF8C-482B-8370-3BF022C3BA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916E7DD0-EF8C-482B-8370-3BF022C3BA6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
