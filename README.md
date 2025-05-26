@@ -1,4 +1,4 @@
-# 🦅 Buzzard
+![image](https://github.com/user-attachments/assets/6a393177-4c54-4fc6-8bf8-9bc7e443f1fd)
 **Buzzard** is a lightweight, fast, and extensible .NET library that implements the Mediator pattern — similar to [MediatR](https://github.com/jbogard/MediatR) — with full developer control and minimal overhead.
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=juniorschroder_Buzzard&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=juniorschroder_Buzzard)
